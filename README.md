@@ -1,3 +1,5 @@
+![Store Sales Forecasting Banner](https://github.com/Yul04ek/store-sales-baseline/raw/main/assets/banner.png)
+
 # 🧠 Store Sales Forecasting (Kaggle)
 
 Minimalist baseline solution for the [Store Sales Time Series Forecasting](https://www.kaggle.com/competitions/store-sales-time-series-forecasting) competition on Kaggle.
